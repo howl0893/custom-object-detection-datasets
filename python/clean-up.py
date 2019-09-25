@@ -1,4 +1,6 @@
-#python script for editing text files_in
+# written by: Matthew Howlett
+# date: September 24, 2019
+# python script for editing text files_in
 
 files_in = ['C:/Users/Matt/OneDrive/Documents/Kettering/courses/summer-2019/ce-senior-design/creating-kitti-datasets/cocosynth-master/datasets/cards/train-messy.txt', 'C:/Users/Matt/OneDrive/Documents/Kettering/courses/summer-2019/ce-senior-design/creating-kitti-datasets/cocosynth-master/datasets/cards/test-messy.txt']
 files_out = ['C:/Users/Matt/OneDrive/Documents/Kettering/courses/summer-2019/ce-senior-design/creating-kitti-datasets/cocosynth-master/datasets/cards/train.txt', 'C:/Users/Matt/OneDrive/Documents/Kettering/courses/summer-2019/ce-senior-design/creating-kitti-datasets/cocosynth-master/datasets/cards/test.txt']
