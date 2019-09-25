@@ -3,7 +3,7 @@
 
 ### 1. Create custom COCO datasets from scratch
 
-https://www.youtube.com/watch?v=jftZBfMZj8k&list=PLy-L-4xQRIuNm4tN9RIufCC6sqjuw1mAj&index=6&t=0s
+https://www.youtube.com/watch?v=jftZBfMZj8k&list=PLy-L-4xQRIuNm4tN9RIufCC6sqjuw1mAj
 
 ### 2. Convert COCO dataset into KITTI format
 
