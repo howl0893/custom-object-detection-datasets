@@ -11,9 +11,6 @@
 
 ### 3. Convert PASCAL VOC formatted datasets into a COCO dataset
 
-*insert video*
+Video Guide playlist:
 
-
- Follow written guides located in this GitHub or follow the video tutorial series:
- 
- temp-youtube.com/mattrules-o-yea
+https://www.youtube.com/watch?v=NPnPn-buQRM&list=PLy-L-4xQRIuOZFQ3UMFTDp8m_7ekbNiuP
