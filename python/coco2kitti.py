@@ -1,6 +1,7 @@
 """coco2kitti.py: Converts MS COCO annotation files to
                   Kitti format bounding box label files
 __author__ = "Jon Barker"
+__editedby__ = "Matthew Howlett"
 """
 
 import os
