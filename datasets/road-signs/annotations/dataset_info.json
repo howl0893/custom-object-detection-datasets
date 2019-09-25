@@ -1,0 +1,16 @@
+{
+    "info":
+    {
+        "description": "Test dataset",
+        "version": "1",
+        "url": "no-url/datasets.com",
+        "year": 2019,
+        "contributor": "Matt Howlett",
+        "date_created": "08/08/2019"
+    },
+    "license":{
+        "url":"no-url/licenses.com",
+        "id": 0,
+        "name": "testing"
+    }
+}

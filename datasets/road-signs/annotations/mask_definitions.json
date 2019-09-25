@@ -1,0 +1,93 @@
+{
+    "masks":
+    {
+        "images/000001.png":
+        {
+            "mask": "masks/000001.png",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "stop_sign", "super_category": "sign"}
+            }
+        },
+        "images/000002.png":
+        {
+            "mask": "masks/000002.png",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "stop_sign", "super_category": "sign"}
+            }
+        },
+        "images/000003.png":
+        {
+            "mask": "masks/000003.png",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "stop_sign", "super_category": "sign"}
+            }
+        },
+        "images/000004.png":
+        {
+            "mask": "masks/000004.png",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "stop_sign", "super_category": "sign"}
+            }
+        },
+        "images/000005.png":
+        {
+            "mask": "masks/000005.png",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "stop_sign", "super_category": "sign"}
+            }
+        },
+        "images/000006.png":
+        {
+            "mask": "masks/000006.png",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "stop_sign", "super_category": "sign"}
+            }
+        },
+        "images/000007.png":
+        {
+            "mask": "masks/000007.png",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "stop_sign", "super_category": "sign"}
+            }
+        },
+        "images/000008.png":
+        {
+            "mask": "masks/000008.png",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "stop_sign", "super_category": "sign"}
+            }
+        },
+        "images/000009.png":
+        {
+            "mask": "masks/000009.png",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "stop_sign", "super_category": "sign"}
+            }
+        },
+        "images/000010.png":
+        {
+            "mask": "masks/000010.png",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "stop_sign", "super_category": "sign"},
+                "(0, 255, 0)": {"category": "stop_sign", "super_category": "sign"},
+                "(255, 0, 0)": {"category": "stop_sign", "super_category": "sign"},
+                "(150, 0, 150)": {"category": "stop_sign", "super_category": "sign"}
+            }
+        }
+    },
+    "super_categories":
+    {
+        "sign": ["stop_sign", "yield", "speed_limit"],
+        "traffic-light": ["traffic_light", "go", "stop", "caution"]
+    }
+}
