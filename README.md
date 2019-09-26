@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=jftZBfMZj8k&list=PLy-L-4xQRIuNm4tN9RIufCC6sqjuw1
 
 ### 2. Convert COCO dataset into KITTI format
 
-*insert video*
+https://www.youtube.com/watch?v=N6D9W-ytQc4&feature=youtu.be
 
 ### 3. Convert PASCAL VOC formatted datasets into a COCO dataset
 
